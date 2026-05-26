@@ -10,5 +10,7 @@ To write a python program to perform stop and wait protocol
 6. Stop the Program
 ## PROGRAM
 ## OUTPUT
+<img width="1910" height="1007" alt="Screenshot 2026-05-22 155012" src="https://github.com/user-attachments/assets/4c8bf96f-448e-4e18-b971-d8f7e27a9d8e" />
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
